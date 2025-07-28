@@ -1,6 +1,6 @@
 #include <stdio.h>
+int main() {  
 
-int main(){ 
    //CARTA 1
     char nome1[50];
     char estado1[50];
@@ -94,7 +94,7 @@ int main(){
     printf("PIB per capita (Carta 2): %.2f milhões/habitante\n", pib_per_capita2);
     printf("Densidade Populacional (Carta 2): %.2f habitantes/km²\n", densidade2);
 
-    // Exibir os Resultados
+    // Os Resultados
 
     //carta 1
     printf("\n--- Resultados Finais ---\n");
