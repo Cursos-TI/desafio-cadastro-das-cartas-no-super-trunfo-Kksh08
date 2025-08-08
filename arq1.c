@@ -98,7 +98,7 @@ int main(){
     
     //fim da exibição das cartas 2
     // fim da exibição das cartas 1 e 2
-
+  
     
     
     
